@@ -1,0 +1,5 @@
+/Users/max/Documents/Developer/leetcode-vscode/obj/Debug/net8.0/LeetCodeSolutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Documents/Developer/leetcode-vscode/obj/Debug/net8.0/LeetCodeSolutions.AssemblyInfoInputs.cache
+/Users/max/Documents/Developer/leetcode-vscode/obj/Debug/net8.0/LeetCodeSolutions.AssemblyInfo.cs
+/Users/max/Documents/Developer/leetcode-vscode/obj/Debug/net8.0/LeetCodeSolutions.csproj.CoreCompileInputs.cache
+/Users/max/Documents/Developer/leetcode-vscode/obj/Debug/net8.0/LeetCodeSolutions.sourcelink.json
