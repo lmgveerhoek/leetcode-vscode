@@ -10,7 +10,6 @@
 public class MinStack
 {
 
-    private int Min { get; set; } = int.MaxValue;
     private Stack<int> NumbersStack { get; set; } = new Stack<int>();
     private Stack<int> PreviousMinStack { get; set; } = new Stack<int>();
 
